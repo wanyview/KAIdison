@@ -1,0 +1,5 @@
+{
+  "name": "KAIdison BCI-MAS Lab",
+  "description": "A Multi-Agent System (MAS) experiment bed for Brain-Computer Interface (BCI) technology routes. Features simulation, comparison, and predictive analytics.",
+  "requestFramePermissions": []
+}
